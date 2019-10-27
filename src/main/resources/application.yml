@@ -1,0 +1,8 @@
+
+spring:
+  application:
+    name: spring_mongoDB
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/java_mongo_spring
+# mongodb://user:pass@localhost:27017/java_mongo_spring no caso de user e password
